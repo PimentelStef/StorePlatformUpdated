@@ -6,7 +6,7 @@ info:
   description: API for managing store products.
 
 servers:
-  - url: http://localhost:5111/catalog/v1
+  - url: http://localhost:5111/catalog/v1/products
 
 paths:
 
