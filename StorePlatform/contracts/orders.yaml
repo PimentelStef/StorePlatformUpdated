@@ -6,7 +6,7 @@ info:
   description: API for managing store orders.
 
 servers:
-  - url: http://localhost:5002/orders/v1
+  - url: http://localhost:5064/orders/v1/orders
 
 paths:
 
