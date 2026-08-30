@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../CatalogService/CatalogService.csproj" Id="ace3e047-52ad-43cd-a100-37b50d4046cc" />
+  <Project Path="../OrderService/OrderService.csproj" Id="b3b87259-c61c-4477-a624-0f1130de7ed4" />
+  <Project Path="StorePlatform.csproj" />
+</Solution>
